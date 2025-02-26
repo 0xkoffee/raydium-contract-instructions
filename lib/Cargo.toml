@@ -11,4 +11,4 @@ spl-associated-token-account = { version = "6.0.0", features = [
     "no-entrypoint",
 ] }
 thiserror = "1.0.20"
-ahash = "=0.8.6"
+ahash = "=0.8.11"
